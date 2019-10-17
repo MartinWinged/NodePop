@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<category name="Favourite Nodes">
+		<slot number="1" nodeID="none" shortcut="none"></slot>
+		<slot number="2" nodeID="none" shortcut="none"></slot>
+		<slot number="3" nodeID="none" shortcut="none"></slot>
+		<slot number="4" nodeID="none" shortcut="none"></slot>
+		<slot number="5" nodeID="none" shortcut="none"></slot>
+	</category>
+	<category name="Extras">
+		<option name="Spelling Correction" value="0"></option>
+	</category>
+	<category name="Cameras" colour="6699ff">
+		<subcategory name="Root">
+			<node name="Camera" position="2" frequency="0" ID="1"></node>
+			<node name="Camera Focus Target" position="2" frequency="0" ID="2"></node>
+			<node name="Cylindrical Camera" position="2" frequency="0" ID="3"></node>
+			<node name="Exposable Camera" position="2" frequency="0" ID="4"></node>
+			<node name="Fisheye Camera" position="2" frequency="0" ID="5"></node>
+			<node name="Hardware Tracking Camera" position="2" frequency="0" ID="6"></node>
+			<node name="Multi Camera" position="2" frequency="0" ID="7"></node>
+			<node name="Orbit Camera" position="2" frequency="0" ID="8"></node>
+			<node name="Proxy Camera" position="2" frequency="0" ID="9"></node>
+			<node name="Region Camera" position="2" frequency="0" ID="10"></node>
+			<node name="Stereo Camera" position="2" frequency="0" ID="11"></node>
+			<node name="UV Camera" position="2" frequency="0" ID="12"></node>
+			<node name="VR 360 Camera" position="2" frequency="0" ID="13"></node>
+			<node name="VR Headset Camera" position="2" frequency="0" ID="14"></node>
+		</subcategory>
+	</category>
+	<category name="Cloning" colour="7ba984">
+		<subcategory name="Root">
+			<node name="Clone Cache" position="2" frequency="0" ID="15"></node>
+			<node name="Clone To Image" position="2" frequency="0" ID="16"></node>
+			<node name="Clone To Mesh" position="2" frequency="0" ID="17"></node>
+			<node name="Clone To Particles" position="2" frequency="0" ID="18"></node>
+			<node name="Clone To Point Cache" position="2" frequency="0" ID="19"></node>
+			<node name="Clone To Procedurals" position="2" frequency="0" ID="20"></node>
+			<node name="Clone To Spline" position="2" frequency="0" ID="21"></node>
+			<node name="Clone To Transform Array" position="2" frequency="0" ID="22"></node>
+			<node name="Clone To Volume" position="2" frequency="0" ID="23"></node>
+			<node name="Cloner" position="2" frequency="0" ID="24"></node>
+			<node name="Convert Geometry To Boxes" position="2" frequency="0" ID="25"></node>
+			<node name="Random Cloner" position="2" frequency="0" ID="26"></node>
+		</subcategory>
+		<subcategory name="Effectors">
+			<node name="Colour Ramp Effector" position="3" frequency="0" ID="27"></node>
+			<node name="FFT Effector" position="3" frequency="0" ID="28"></node>
+			<node name="Image Effector" position="3" frequency="0" ID="29"></node>
+			<node name="Kill Box Effector" position="3" frequency="0" ID="30"></node>
+			<node name="Plain Effector" position="3" frequency="0" ID="31"></node>
+			<node name="Quantise Effector" position="3" frequency="0" ID="32"></node>
+			<node name="Randomise Effector" position="3" frequency="0" ID="33"></node>
+			<node name="Rigid Body Effector" position="3" frequency="0" ID="34"></node>
+			<node name="Ripple Effector" position="3" frequency="0" ID="35"></node>
+			<node name="Sine Effector" position="3" frequency="0" ID="36"></node>
+			<node name="Spring Effector" position="3" frequency="0" ID="37"></node>
+			<node name="Target Effector" position="3" frequency="0" ID="38"></node>
+			<node name="Turbulence Effector" position="3" frequency="0" ID="39"></node>
+		</subcategory>
+	</category>
+	<category name="Deformers" colour="97cad5">
+		<subcategory name="Root">
+			<node name="3D Plasma Deformer" position="2" frequency="0" ID="40"></node>
+			<node name="Chunk Effector Deformer" position="2" frequency="0" ID="41"></node>
+			<node name="Colour Map Deformer" position="2" frequency="0" ID="42"></node>
+			<node name="Colour Ramp Deformer" position="2" frequency="0" ID="43"></node>
+			<node name="Cull Deformer" position="2" frequency="0" ID="44"></node>
+			<node name="Curl Noise Deformer" position="2" frequency="0" ID="45"></node>
+			<node name="Displacement Deformer" position="2" frequency="0" ID="46"></node>
+			<node name="Displacement Map" position="2" frequency="0" ID="47"></node>
+			<node name="Distortion Deformer" position="2" frequency="0" ID="48"></node>
+			<node name="Face Tracking Deformer" position="2" frequency="0" ID="49"></node>
+			<node name="FFT Deformer" position="2" frequency="0" ID="50"></node>
+			<node name="Generate Fertilizer Times Deformer" position="2" frequency="0" ID="51"></node>
+			<node name="Generate UVs" position="2" frequency="0" ID="52"></node>
+			<node name="Generate Weightmap Deformer" position="2" frequency="0" ID="53"></node>
+			<node name="MDD Deformer" position="2" frequency="0" ID="54"></node>
+			<node name="Mirror Deformer" position="2" frequency="0" ID="55"></node>
+			<node name="Morph Controller" position="2" frequency="0" ID="56"></node>
+			<node name="Ocean Wave Deformer" position="2" frequency="0" ID="57"></node>
+			<node name="Particle Bone Deformer" position="2" frequency="0" ID="58"></node>
+			<node name="Particle Mesh Deformer" position="2" frequency="0" ID="59"></node>
+			<node name="Plain Deformer" position="2" frequency="0" ID="60"></node>
+			<node name="Point Deformer" position="2" frequency="0" ID="61"></node>
+			<node name="Quantise Deformer" position="2" frequency="0" ID="62"></node>
+			<node name="Ripple Deformer" position="2" frequency="0" ID="63"></node>
+			<node name="Sine Deformer" position="2" frequency="0" ID="64"></node>
+			<node name="Smoothing Deformer" position="2" frequency="0" ID="65"></node>
+			<node name="Spline Deformer" position="2" frequency="0" ID="66"></node>
+			<node name="Taper Deformer" position="2" frequency="0" ID="67"></node>
+			<node name="Turbulence Deformer" position="2" frequency="0" ID="68"></node>
+			<node name="Twist Deformer" position="2" frequency="0" ID="69"></node>
+			<node name="Water Ripple Deformer" position="2" frequency="0" ID="70"></node>
+		</subcategory>
+	</category>
+	<category name="Fields" colour="aa3377">
+		<subcategory name="Root">
+			<node name="Field Cache" position="2" frequency="0" ID="71"></node>
+			<node name="Field Level Set Root" position="2" frequency="0" ID="72"></node>
+			<node name="Field Root" position="3" frequency="0" ID="73"></node>
+		</subcategory>
+		<subcategory name="Affectors">
+			<node name="3D Object Collision Affector" position="3" frequency="0" ID="74"></node>
+			<node name="Curl Noise Affector" position="3" frequency="0" ID="75"></node>
+			<node name="Derivative Feedback" position="3" frequency="0" ID="76"></node>
+			<node name="Field Affector" position="3" frequency="0" ID="77"></node>
+			<node name="Field Feedback" position="3" frequency="0" ID="78"></node>
+			<node name="Fluid Affector" position="3" frequency="0" ID="79"></node>
+			<node name="Image Affector" position="3" frequency="0" ID="80"></node>
+			<node name="Points Affector" position="3" frequency="0" ID="81"></node>
+			<node name="Primitive Affector" position="3" frequency="0" ID="82"></node>
+			<node name="Primitive Collision Affector" position="3" frequency="0" ID="83"></node>
+			<node name="Turbulence Affector" position="3" frequency="0" ID="84"></node>
+			<node name="Velocity Affector" position="3" frequency="0" ID="85"></node>
+			<node name="Vortex Affector" position="3" frequency="0" ID="86"></node>
+		</subcategory>
+		<subcategory name="Deformers">
+			<node name="Fbm Deformer" position="3" frequency="0" ID="87"></node>
+			<node name="Sine Deformer" position="5" frequency="0" ID="88"></node>
+		</subcategory>
+		<subcategory name="Emitters">
+			<node name="3D Object Emitter" position="3" frequency="0" ID="89"></node>
+			<node name="Field - Field Emitter" position="3" frequency="0" ID="90"></node>
+			<node name="Image Emitter" position="3" frequency="0" ID="91"></node>
+			<node name="Particle Emitter" position="3" frequency="0" ID="92"></node>
+			<node name="Primitive Emitter" position="3" frequency="0" ID="93"></node>
+			<node name="Procedural Emitter" position="3" frequency="0" ID="94"></node>
+			<node name="Reaction-Diffusion" position="3" frequency="0" ID="95"></node>
+		</subcategory>
+		<subcategory name="Rendering">
+			<node name="Field Lighting" position="3" frequency="0" ID="96"></node>
+			<node name="Field Renderer" position="3" frequency="0" ID="97"></node>
+			<node name="Field Shadows" position="3" frequency="0" ID="98"></node>
+			<node name="Render To Object Surface" position="3" frequency="0" ID="99"></node>
+		</subcategory>
+	</category>
+	<category name="Generators" colour="33aa99">
+		<subcategory name="Root">
+			<node name="Cells" position="2" frequency="0" ID="100"></node>
+			<node name="Curve Mask" position="2" frequency="0" ID="101"></node>
+			<node name="FFT Texture" position="2" frequency="0" ID="102"></node>
+			<node name="Flat Colour" position="2" frequency="0" ID="103"></node>
+			<node name="Fractal Noise" position="2" frequency="0" ID="104"></node>
+			<node name="Freehand Mask" position="2" frequency="0" ID="105"></node>
+			<node name="Gradient" position="2" frequency="0" ID="106"></node>
+			<node name="Grid" position="2" frequency="0" ID="107"></node>
+			<node name="MIDI Keyboard Texture" position="2" frequency="0" ID="108"></node>
+			<node name="Noise" position="8" frequency="0" ID="109"></node>
+			<node name="Plasma" position="4" frequency="0" ID="110"></node>
+			<node name="Polygon" position="2" frequency="0" ID="111"></node>
+			<node name="Reaction Diffusion" position="5" frequency="0" ID="112"></node>
+			<node name="Star" position="2" frequency="0" ID="113"></node>
+			<node name="Tile Sheet" position="2" frequency="0" ID="114"></node>
+			<node name="Tiles" position="2" frequency="0" ID="115"></node>
+			<node name="Truchet" position="2" frequency="0" ID="116"></node>
+			<node name="Voronoi" position="2" frequency="0" ID="117"></node>
+		</subcategory>
+	</category>
+	<category name="Geometry" colour="aea8cc">
+		<subcategory name="Root">
+			<node name="3D Object" position="7" frequency="0" ID="118"></node>
+			<node name="Auto Bounding Box" position="2" frequency="0" ID="119"></node>
+			<node name="Bone" position="4" frequency="0" ID="120"></node>
+			<node name="Bounding Box" position="3" frequency="0" ID="121"></node>
+			<node name="Combine Geometry" position="2" frequency="0" ID="122"></node>
+			<node name="Convex Hull" position="2" frequency="0" ID="123"></node>
+			<node name="Decal" position="2" frequency="0" ID="124"></node>
+			<node name="Depth Camera / Kinect Mesh" position="2" frequency="0" ID="125"></node>
+			<node name="Exposable Null" position="2" frequency="0" ID="126"></node>
+			<node name="Extruded Spline" position="2" frequency="0" ID="127"></node>
+			<node name="Face Tracking Geometry" position="2" frequency="0" ID="128"></node>
+			<node name="Geometry Exporter" position="2" frequency="0" ID="129"></node>
+			<node name="Graph Geometry" position="2" frequency="0" ID="130"></node>
+			<node name="IK Chain" position="2" frequency="0" ID="131"></node>
+			<node name="Image Plane" position="2" frequency="0" ID="132"></node>
+			<node name="Imported 3D Scene" position="2" frequency="0" ID="133"></node>
+			<node name="Kinect1 Skeleton" position="2" frequency="0" ID="134"></node>
+			<node name="Kinect2 Skeleton" position="2" frequency="0" ID="135"></node>
+			<node name="Line Renderer" position="2" frequency="0" ID="136"></node>
+			<node name="Lines" position="2" frequency="0" ID="137"></node>
+			<node name="Mocap Stream" position="2" frequency="0" ID="138"></node>
+			<node name="Motive Rigid Body" position="2" frequency="0" ID="139"></node>
+			<node name="Node Trail" position="2" frequency="0" ID="140"></node>
+			<node name="Null" position="3" frequency="0" ID="141"></node>
+			<node name="Optitrack Mocap Skeleton" position="2" frequency="0" ID="142"></node>
+			<node name="Perception Neuron Mocap Skeleton" position="2" frequency="0" ID="143"></node>
+			<node name="Shape 3D" position="2" frequency="0" ID="144"></node>
+			<node name="Shatter Primitive 3D" position="2" frequency="0" ID="145"></node>
+			<node name="Skybox" position="2" frequency="0" ID="146"></node>
+			<node name="Slice Geometry" position="2" frequency="0" ID="147"></node>
+			<node name="Spline" position="7" frequency="0" ID="148"></node>
+			<node name="Text" position="5" frequency="0" ID="149"></node>
+			<node name="Transform Array" position="4" frequency="0" ID="150"></node>
+			<node name="Transform Array Extractor" position="5" frequency="0" ID="151"></node>
+			<node name="Tweening Null" position="5" frequency="0" ID="152"></node>
+			<node name="XSens Mocap Skeleton" position="5" frequency="0" ID="153"></node>
+		</subcategory>
+	</category>
+	<category name="Interactive" colour="bce4d8">
+		<subcategory name="Root">
+			<node name="Artnet Recording Playback" position="2" frequency="0" ID="154"></node>
+			<node name="Blacktrax Tracked Body" position="2" frequency="0" ID="155"></node>
+			<node name="Blacktrax Transform Array" position="2" frequency="0" ID="156"></node>
+			<node name="Clock Time Modifier" position="2" frequency="0" ID="157"></node>
+			<node name="CSV/Table Transform Array" position="2" frequency="0" ID="158"></node>
+			<node name="Hot Zone" position="2" frequency="0" ID="159"></node>
+			<node name="Keyboard Modifier" position="2" frequency="0" ID="160"></node>
+			<node name="Mouse Picker" position="2" frequency="0" ID="161"></node>
+			<node name="RSS Feed Node" position="2" frequency="0" ID="162"></node>
+			<node name="RSS Text Selector" position="2" frequency="0" ID="163"></node>
+			<node name="TUIO Transform Array" position="2" frequency="0" ID="164"></node>
+			<node name="VR Controller" position="2" frequency="0" ID="165"></node>
+			<node name="VR Look-At Trigger" position="2" frequency="0" ID="166"></node>
+		</subcategory>
+	</category>
+	<category name="Lighting" colour="e8e8a8">
+		<subcategory name="Root">
+			<node name="Ambient Light" position="2" frequency="0" ID="167"></node>
+			<node name="Area Light" position="2" frequency="0" ID="168"></node>
+			<node name="Area Lights From Polygons" position="2" frequency="0" ID="169"></node>
+			<node name="Bake Lighting To Object" position="2" frequency="0" ID="170"></node>
+			<node name="Directional Light" position="2" frequency="0" ID="171"></node>
+			<node name="Environment Map" position="2" frequency="0" ID="172"></node>
+			<node name="Fog Scattering" position="2" frequency="0" ID="173"></node>
+			<node name="Light" position="10" frequency="0" ID="174"></node>
+			<node name="Planar Environment Map" position="2" frequency="0" ID="175"></node>
+			<node name="Planar Reflection" position="2" frequency="0" ID="176"></node>
+			<node name="Point Cache" position="4" frequency="0" ID="177"></node>
+			<node name="Point Lights From Vertices" position="2" frequency="0" ID="178"></node>
+			<node name="Probe Grid" position="2" frequency="0" ID="179"></node>
+			<node name="Probe Lighting" position="2" frequency="0" ID="180"></node>
+			<node name="Project Image" position="2" frequency="0" ID="181"></node>
+			<node name="Screen Space Ambient Occlusion" position="2" frequency="0" ID="182"></node>
+			<node name="Screen Space Reflections" position="2" frequency="0" ID="183"></node>
+			<node name="Shadow Volume" position="2" frequency="0" ID="184"></node>
+			<node name="Sky Light" position="2" frequency="0" ID="185"></node>
+			<node name="Volumetric Lighting" position="2" frequency="0" ID="186"></node>
+			<node name="Voxel Cone Lighting" position="2" frequency="0" ID="187"></node>
+		</subcategory>
+	</category>
+	<category name="Logic" colour="808080">
+		<subcategory name="Root">
+			<node name="Execute Child Nodes" position="2" frequency="0" ID="188"></node>
+			<node name="Jump To Time" position="2" frequency="0" ID="189"></node>
+			<node name="Loop Time" position="2" frequency="0" ID="190"></node>
+			<node name="Select Child Node" position="2" frequency="0" ID="191"></node>
+			<node name="State Machine" position="2" frequency="0" ID="192"></node>
+			<node name="State Machine Event" position="2" frequency="0" ID="193"></node>
+			<node name="State Machine State" position="4" frequency="0" ID="194"></node>
+		</subcategory>
+	</category>
+	<category name="Materials" colour="808080">
+		<subcategory name="Root">
+			<node name="Alpha Blend (Transparent) Material" position="2" frequency="0" ID="195"></node>
+			<node name="Diffuse Material" position="3" frequency="0" ID="196"></node>
+			<node name="Emissive Material" position="2" frequency="0" ID="197"></node>
+			<node name="Global Material List" position="2" frequency="0" ID="198"></node>
+			<node name="Material" position="6" frequency="0" ID="199"></node>
+			<node name="Metallic Material" position="2" frequency="0" ID="200"></node>
+			<node name="Multi Material" position="2" frequency="0" ID="201"></node>
+			<node name="Shadow Catcher Material" position="2" frequency="0" ID="202"></node>
+			<node name="Substance Material" position="2" frequency="0" ID="203"></node>
+		</subcategory>
+	</category>
+	<category name="Modifiers" colour="ffbb00">
+		<subcategory name="Root">
+			<node name="Accumulator" position="2" frequency="0" ID="204"></node>
+			<node name="Beat Pulse Modifier" position="2" frequency="0" ID="205"></node>
+			<node name="Combiner" position="2" frequency="0" ID="206"></node>
+			<node name="Condition Modifier" position="2" frequency="0" ID="207"></node>
+			<node name="Continuous Modifier" position="2" frequency="0" ID="208"></node>
+			<node name="CSV/Table Read Modifier" position="2" frequency="0" ID="209"></node>
+			<node name="Delay Value" position="2" frequency="0" ID="210"></node>
+			<node name="Direction-Weighted Motion Modifier" position="2" frequency="0" ID="211"></node>
+			<node name="Envelope Modifier" position="2" frequency="0" ID="212"></node>
+			<node name="Expression" position="2" frequency="0" ID="213"></node>
+			<node name="Extractor" position="4" frequency="0" ID="214"></node>
+			<node name="FPS Counter Value" position="2" frequency="0" ID="215"></node>
+			<node name="Gradient Remap Modifier" position="2" frequency="0" ID="216"></node>
+			<node name="Input Selector Modifier" position="2" frequency="0" ID="217"></node>
+			<node name="Limiter Modifier" position="2" frequency="0" ID="218"></node>
+			<node name="Math Modifier" position="2" frequency="0" ID="219"></node>
+			<node name="MIDI Modifier" position="2" frequency="0" ID="220"></node>
+			<node name="OSC Modifier" position="2" frequency="0" ID="221"></node>
+			<node name="Proximity Modifier" position="2" frequency="0" ID="222"></node>
+			<node name="Quantise Modifier" position="2" frequency="0" ID="223"></node>
+			<node name="Range Remap" position="2" frequency="0" ID="224"></node>
+			<node name="Smooth Envelope Modifier" position="2" frequency="0" ID="225"></node>
+			<node name="Sound Modifier" position="2" frequency="0" ID="226"></node>
+			<node name="Speed Tracking Modifier" position="2" frequency="0" ID="227"></node>
+			<node name="Triggerable Envelope Modifier" position="2" frequency="0" ID="228"></node>
+			<node name="Video Sampler Modifier" position="2" frequency="0" ID="229"></node>
+		</subcategory>
+	</category>
+	<category name="Nodes" colour="aaa8a5">
+		<subcategory name="Root">
+			<node name="Colour" position="10" frequency="0" ID="230"></node>
+			<node name="Colour Image Ramp" position="2" frequency="0" ID="231"></node>
+			<node name="Colour Ramp" position="8" frequency="0" ID="232"></node>
+			<node name="Comment" position="2" frequency="0" ID="233"></node>
+			<node name="CSV/Table Entry As Text" position="2" frequency="0" ID="234"></node>
+			<node name="Debug Log" position="2" frequency="0" ID="235"></node>
+			<node name="Image 2D" position="2" frequency="0" ID="236"></node>
+			<node name="Image 2D Equirectangular" position="2" frequency="0" ID="237"></node>
+			<node name="Image File Loader" position="2" frequency="0" ID="238"></node>
+			<node name="Layer Precomp" position="2" frequency="0" ID="239"></node>
+			<node name="Mapping" position="2" frequency="0" ID="240"></node>
+			<node name="Motion Direction Follower" position="2" frequency="0" ID="241"></node>
+			<node name="Motion Predictor" position="2" frequency="0" ID="242"></node>
+			<node name="OSC Output" position="2" frequency="0" ID="243"></node>
+			<node name="OSC Text String" position="2" frequency="0" ID="244"></node>
+			<node name="Parent To Vertex" position="2" frequency="0" ID="245"></node>
+			<node name="Photon Visualiser" position="2" frequency="0" ID="246"></node>
+			<node name="Region" position="4" frequency="0" ID="247"></node>
+			<node name="Render Layer" position="2" frequency="0" ID="248"></node>
+			<node name="Render To Surfaces" position="2" frequency="0" ID="249"></node>
+			<node name="Render To Texture" position="2" frequency="0" ID="250"></node>
+			<node name="Root" position="5" frequency="0" ID="251"></node>
+			<node name="Screen Projection" position="2" frequency="0" ID="252"></node>
+			<node name="Spline Follower" position="2" frequency="0" ID="253"></node>
+			<node name="Time Counter As Text" position="2" frequency="0" ID="254"></node>
+			<node name="Time Stretch" position="2" frequency="0" ID="255"></node>
+			<node name="Timecode As Text" position="2" frequency="0" ID="256"></node>
+			<node name="Triangle Octree Node" position="6" frequency="0" ID="257"></node>
+			<node name="Trigger" position="6" frequency="0" ID="258"></node>
+			<node name="Value As Text" position="2" frequency="0" ID="259"></node>
+		</subcategory>
+	</category>
+	<category name="Particles" colour="ff6c46">
+		<subcategory name="Root">
+			<node name="Particle Bounding Box" position="2" frequency="0" ID="260"></node>
+			<node name="Particle Cache" position="2" frequency="0" ID="261"></node>
+			<node name="Particle Event" position="2" frequency="0" ID="262"></node>
+			<node name="Particle Root" position="2" frequency="0" ID="263"></node>
+		</subcategory>
+		<subcategory name="Affectors">
+			<node name="Cloth Affector" position="3" frequency="0" ID="264"></node>
+			<node name="Collision Affector" position="7" frequency="0" ID="265"></node>
+			<node name="Curl Noise Fluid Affector" position="3" frequency="0" ID="266"></node>
+			<node name="Depth Image Collision Affector" position="3" frequency="0" ID="267"></node>
+			<node name="Explode Affector" position="3" frequency="0" ID="268"></node>
+			<node name="Field Affector" position="6" frequency="0" ID="269"></node>
+			<node name="Flocking Affector" position="3" frequency="0" ID="270"></node>
+			<node name="Fluid FLIP Affector" position="3" frequency="0" ID="271"></node>
+			<node name="Force Affector" position="3" frequency="0" ID="272"></node>
+			<node name="Image Affector" position="7" frequency="0" ID="273"></node>
+			<node name="Kill Box Affector" position="3" frequency="0" ID="274"></node>
+			<node name="Mesh Attractor" position="3" frequency="0" ID="275"></node>
+			<node name="Object Distance Field Affector" position="3" frequency="0" ID="276"></node>
+			<node name="Points Affector" position="6" frequency="0" ID="277"></node>
+			<node name="Primitive Affector" position="7" frequency="0" ID="278"></node>
+			<node name="Primitive Collision Affector" position="6" frequency="0" ID="279"></node>
+			<node name="Procedural Affector" position="3" frequency="0" ID="280"></node>
+			<node name="Rigid Body Collision Affector" position="3" frequency="0" ID="281"></node>
+			<node name="Scale Affector" position="3" frequency="0" ID="282"></node>
+			<node name="Shockwave Affector" position="3" frequency="0" ID="283"></node>
+			<node name="SPH Affector" position="3" frequency="0" ID="284"></node>
+			<node name="Spline Attractor" position="3" frequency="0" ID="285"></node>
+			<node name="Spring Affector" position="3" frequency="0" ID="286"></node>
+			<node name="Turbulence Affector" position="6" frequency="0" ID="287"></node>
+			<node name="Velocity Affector" position="6" frequency="0" ID="288"></node>
+			<node name="Vortex Affector" position="6" frequency="0" ID="289"></node>
+		</subcategory>
+		<subcategory name="Emitters">
+			<node name="Field Emitter" position="6" frequency="0" ID="290"></node>
+			<node name="Image Emitter" position="6" frequency="0" ID="291"></node>
+			<node name="Mesh Emitter" position="3" frequency="0" ID="292"></node>
+			<node name="Point Cache Emitter" position="3" frequency="0" ID="293"></node>
+			<node name="Primitive Emitter" position="6" frequency="0" ID="294"></node>
+			<node name="Procedural Emitter" position="6" frequency="0" ID="295"></node>
+			<node name="Screen Emitter" position="3" frequency="0" ID="296"></node>
+			<node name="SDF Emitter" position="3" frequency="0" ID="297"></node>
+			<node name="Spline Emitter" position="3" frequency="0" ID="298"></node>
+			<node name="Trail Emitter" position="3" frequency="0" ID="299"></node>
+			<node name="Video Feature Emitter" position="3" frequency="0" ID="300"></node>
+		</subcategory>
+		<subcategory name="Rendering">
+			<node name="Dot Matrix Renderer" position="3" frequency="0" ID="301"></node>
+			<node name="Geometry Connection Renderer" position="3" frequency="0" ID="302"></node>
+			<node name="Gradient 2D Renderer" position="3" frequency="0" ID="303"></node>
+			<node name="Line Connection Renderer" position="3" frequency="0" ID="304"></node>
+			<node name="Line Renderer" position="6" frequency="0" ID="305"></node>
+			<node name="Mesh Renderer" position="3" frequency="0" ID="306"></node>
+			<node name="Point Renderer" position="3" frequency="0" ID="307"></node>
+			<node name="Render Particles To Surfaces" position="3" frequency="0" ID="308"></node>
+			<node name="Trail Renderer" position="3" frequency="0" ID="309"></node>
+			<node name="Volume Renderer" position="3" frequency="0" ID="310"></node>
+		</subcategory>
+		<subcategory name="Shading">
+			<node name="Attribute Shading" position="3" frequency="0" ID="311"></node>
+			<node name="Density Shading" position="3" frequency="0" ID="312"></node>
+			<node name="Displace To Shape" position="3" frequency="0" ID="313"></node>
+			<node name="Distance Shading" position="3" frequency="0" ID="314"></node>
+			<node name="Image Displacement" position="3" frequency="0" ID="315"></node>
+			<node name="Image Shading" position="3" frequency="0" ID="316"></node>
+			<node name="Keyed Colour" position="3" frequency="0" ID="317"></node>
+			<node name="Life Colour Shading" position="3" frequency="0" ID="318"></node>
+			<node name="Lighting" position="11" frequency="0" ID="319"></node>
+			<node name="Noise Shading" position="3" frequency="0" ID="320"></node>
+			<node name="Volume Shadow Shading" position="3" frequency="0" ID="321"></node>
+			<node name="Voxel Cone Shading" position="3" frequency="0" ID="322"></node>
+		</subcategory>
+	</category>
+	<category name="Physics" colour="7f6fb0">
+		<subcategory name="Root">
+			<node name="Physics / Rigid Body Root" position="2" frequency="0" ID="323"></node>
+			<node name="Rigid Body" position="11" frequency="0" ID="324"></node>
+			<node name="Rigid Body Collision Mesh" position="2" frequency="0" ID="325"></node>
+			<node name="Rigid Body Depth Image" position="2" frequency="0" ID="326"></node>
+			<node name="Rigid Body Force Affector" position="2" frequency="0" ID="327"></node>
+			<node name="Rigid Body Procedural" position="2" frequency="0" ID="328"></node>
+		</subcategory>
+	</category>
+	<category name="Post-FX" colour="808080">
+		<subcategory name="Root"></subcategory>
+		<subcategory name="Antialiasing">
+			<node name="FXAA Antialiasing" position="3" frequency="0" ID="329"></node>
+			<node name="Temporal Antialiasing" position="3" frequency="0" ID="330"></node>
+		</subcategory>
+		<subcategory name="Blur">
+			<node name="Blur" position="3" frequency="0" ID="331"></node>
+			<node name="Depth of Field" position="3" frequency="0" ID="332"></node>
+			<node name="Directional Blur" position="3" frequency="0" ID="333"></node>
+			<node name="Edge-Aware Blur" position="3" frequency="0" ID="334"></node>
+			<node name="FFT Blur / Glow" position="3" frequency="0" ID="335"></node>
+			<node name="Feedback Blur" position="3" frequency="0" ID="336"></node>
+			<node name="Frame Feedback" position="3" frequency="0" ID="337"></node>
+			<node name="Glow" position="4" frequency="0" ID="338"></node>
+			<node name="Motion Blur" position="3" frequency="0" ID="339"></node>
+			<node name="Radial Blur" position="3" frequency="0" ID="340"></node>
+			<node name="Tilt Shift" position="3" frequency="0" ID="341"></node>
+			<node name="VHS Blur" position="3" frequency="0" ID="342"></node>
+		</subcategory>
+		<subcategory name="Colour Processing">
+			<node name="Apply Colour LUT" position="3" frequency="0" ID="343"></node>
+			<node name="Colour Channel Mixer" position="3" frequency="0" ID="344"></node>
+			<node name="Colour Correction" position="3" frequency="0" ID="345"></node>
+			<node name="Colour Grading" position="3" frequency="0" ID="346"></node>
+			<node name="Colour Limiter" position="3" frequency="0" ID="347"></node>
+			<node name="Combine Colour Grades" position="3" frequency="0" ID="348"></node>
+			<node name="Invert" position="3" frequency="0" ID="349"></node>
+			<node name="Local Contrast" position="3" frequency="0" ID="350"></node>
+			<node name="Recolour" position="3" frequency="0" ID="351"></node>
+			<node name="Strobe" position="3" frequency="0" ID="352"></node>
+			<node name="Tint" position="3" frequency="0" ID="353"></node>
+			<node name="Tone Map" position="3" frequency="0" ID="354"></node>
+		</subcategory>
+		<subcategory name="Distortion">
+			<node name="Distortion" position="5" frequency="0" ID="355"></node>
+			<node name="Dither" position="3" frequency="0" ID="356"></node>
+			<node name="Line Distortion" position="3" frequency="0" ID="357"></node>
+			<node name="Noise" position="16" frequency="0" ID="358"></node>
+			<node name="RGB Distortion" position="3" frequency="0" ID="359"></node>
+		</subcategory>
+		<subcategory name="Generators">
+			<node name="Composite Image" position="3" frequency="0" ID="360"></node>
+			<node name="Gradient 2D" position="6" frequency="0" ID="361"></node>
+			<node name="Gradient 3D" position="3" frequency="0" ID="362"></node>
+			<node name="Gradient Patch" position="3" frequency="0" ID="363"></node>
+			<node name="Grid" position="7" frequency="0" ID="364"></node>
+			<node name="Light Scattering Beam" position="3" frequency="0" ID="365"></node>
+			<node name="Voronoi 2D" position="3" frequency="0" ID="366"></node>
+		</subcategory>
+		<subcategory name="Image Compression">
+			<node name="Compress UV Animation" position="3" frequency="0" ID="367"></node>
+			<node name="Decompress UV Animation" position="3" frequency="0" ID="368"></node>
+		</subcategory>
+		<subcategory name="Image Processing">
+			<node name="Auto Key Colour Mask" position="3" frequency="0" ID="369"></node>
+			<node name="Bit Crush" position="3" frequency="0" ID="370"></node>
+			<node name="Capture Image File" position="3" frequency="0" ID="371"></node>
+			<node name="Channel Boolean" position="3" frequency="0" ID="372"></node>
+			<node name="Crop" position="3" frequency="0" ID="373"></node>
+			<node name="Custom Shader Post Effect" position="3" frequency="0" ID="374"></node>
+			<node name="Dilate" position="3" frequency="0" ID="375"></node>
+			<node name="Edge Detect" position="3" frequency="0" ID="376"></node>
+			<node name="Erode" position="3" frequency="0" ID="377"></node>
+			<node name="Frame Buffer" position="3" frequency="0" ID="378"></node>
+			<node name="Frame Delay" position="3" frequency="0" ID="379"></node>
+			<node name="Frame Difference" position="3" frequency="0" ID="380"></node>
+			<node name="Frame Loop" position="3" frequency="0" ID="381"></node>
+			<node name="Generate Normal Map" position="3" frequency="0" ID="382"></node>
+			<node name="Histogram Normalise" position="3" frequency="0" ID="383"></node>
+			<node name="Key Colour Mask" position="4" frequency="0" ID="384"></node>
+			<node name="Median Filter" position="3" frequency="0" ID="385"></node>
+			<node name="NDI Output" position="3" frequency="0" ID="386"></node>
+			<node name="Output GBuffer" position="3" frequency="0" ID="387"></node>
+			<node name="Range Remap" position="5" frequency="0" ID="388"></node>
+			<node name="Replace Colour" position="3" frequency="0" ID="389"></node>
+			<node name="Threshold" position="3" frequency="0" ID="390"></node>
+			<node name="Video Exporter" position="3" frequency="0" ID="391"></node>
+		</subcategory>
+		<subcategory name="Stylisation">
+			<node name="3D Object Outline" position="3" frequency="0" ID="392"></node>
+			<node name="Cross Hatch" position="3" frequency="0" ID="393"></node>
+			<node name="Digital Block Glitch" position="3" frequency="0" ID="394"></node>
+			<node name="Digital Chroma Glitch" position="3" frequency="0" ID="395"></node>
+			<node name="Dot Matrix" position="6" frequency="0" ID="396"></node>
+			<node name="Film Grading" position="3" frequency="0" ID="397"></node>
+			<node name="Halftone" position="3" frequency="0" ID="398"></node>
+			<node name="Motion Datamosh" position="3" frequency="0" ID="399"></node>
+			<node name="Pixel Sorting Glitches" position="3" frequency="0" ID="400"></node>
+			<node name="Pixellate" position="3" frequency="0" ID="401"></node>
+			<node name="Sharpen" position="3" frequency="0" ID="402"></node>
+			<node name="Slit Scan" position="3" frequency="0" ID="403"></node>
+			<node name="Streaks" position="3" frequency="0" ID="404"></node>
+			<node name="VHS Scanlines" position="3" frequency="0" ID="405"></node>
+			<node name="Vector Blur" position="3" frequency="0" ID="406"></node>
+			<node name="Voronoi Post Process" position="3" frequency="0" ID="407"></node>
+		</subcategory>
+		<subcategory name="Warping">
+			<node name="Barrel Distortion" position="3" frequency="0" ID="408"></node>
+			<node name="Bezier Warp" position="3" frequency="0" ID="409"></node>
+			<node name="Bump Map Warp" position="3" frequency="0" ID="410"></node>
+			<node name="Curl Noise Warp" position="3" frequency="0" ID="411"></node>
+			<node name="Field Position-Based Warp" position="3" frequency="0" ID="412"></node>
+			<node name="Field Warp" position="4" frequency="0" ID="413"></node>
+			<node name="Four Point Warp" position="3" frequency="0" ID="414"></node>
+			<node name="Mirror" position="5" frequency="0" ID="415"></node>
+			<node name="Moebius Warp" position="3" frequency="0" ID="416"></node>
+			<node name="Randomise Tiles" position="3" frequency="0" ID="417"></node>
+			<node name="Ripple" position="9" frequency="0" ID="418"></node>
+			<node name="Screen Warp" position="3" frequency="0" ID="419"></node>
+			<node name="Sine Warp" position="3" frequency="0" ID="420"></node>
+			<node name="Stretch" position="5" frequency="0" ID="421"></node>
+			<node name="Transform Image" position="3" frequency="0" ID="422"></node>
+			<node name="Turbulence Warp" position="3" frequency="0" ID="423"></node>
+			<node name="Twirl Image Warp" position="3" frequency="0" ID="424"></node>
+			<node name="Water Ripples" position="3" frequency="0" ID="425"></node>
+		</subcategory>
+	</category>
+	<category name="Procedural" colour="e985ff">
+		<subcategory name="Root">
+			<node name="Procedural Root" position="2" frequency="0" ID="426"></node>
+		</subcategory>
+		<subcategory name="Cloning">
+			<node name="Clone" position="15" frequency="0" ID="427"></node>
+			<node name="Mirror" position="8" frequency="0" ID="428"></node>
+			<node name="Repeat" position="3" frequency="0" ID="429"></node>
+		</subcategory>
+		<subcategory name="Displacement">
+			<node name="FBM Displacement" position="3" frequency="0" ID="430"></node>
+			<node name="Fluid Affector" position="10" frequency="0" ID="431"></node>
+			<node name="Melt" position="3" frequency="0" ID="432"></node>
+			<node name="Onion" position="3" frequency="0" ID="433"></node>
+			<node name="Pyroclastic Displacement" position="3" frequency="0" ID="434"></node>
+		</subcategory>
+		<subcategory name="Generators">
+			<node name="3D Object" position="13" frequency="0" ID="435"></node>
+			<node name="3D Primitive" position="5" frequency="0" ID="436"></node>
+			<node name="Cellular Noise" position="3" frequency="0" ID="437"></node>
+			<node name="Editable Code" position="3" frequency="0" ID="438"></node>
+			<node name="Fractal Noise" position="5" frequency="0" ID="439"></node>
+			<node name="Image" position="41" frequency="0" ID="440"></node>
+			<node name="Level Set (Field)" position="5" frequency="0" ID="441"></node>
+			<node name="Null" position="7" frequency="0" ID="442"></node>
+			<node name="Particles" position="8" frequency="0" ID="443"></node>
+			<node name="Particles As Primitives" position="3" frequency="0" ID="444"></node>
+			<node name="Reaction-Diffusion" position="6" frequency="0" ID="445"></node>
+			<node name="Voronoi" position="8" frequency="0" ID="446"></node>
+		</subcategory>
+		<subcategory name="Render Nodes">
+			<node name="Heightmap Generator" position="3" frequency="0" ID="447"></node>
+			<node name="Procedural Meshing" position="3" frequency="0" ID="448"></node>
+			<node name="Procedural Shading Node" position="3" frequency="0" ID="449"></node>
+			<node name="Volume Generator" position="3" frequency="0" ID="450"></node>
+			<node name="Volumetric Tracer" position="3" frequency="0" ID="451"></node>
+		</subcategory>
+		<subcategory name="Texturing">
+			<node name="Meshing Texture Map" position="3" frequency="0" ID="452"></node>
+		</subcategory>
+	</category>
+	<category name="Ray Tracing" colour="808080">
+		<subcategory name="Root">
+			<node name="RT Denoiser" position="2" frequency="0" ID="453"></node>
+			<node name="RT Mirror Reflection" position="2" frequency="0" ID="454"></node>
+		</subcategory>
+	</category>
+	<category name="Scripting" colour="808080">
+		<subcategory name="Root">
+			<node name="Javascript Node" position="2" frequency="0" ID="455"></node>
+		</subcategory>
+	</category>
+	<category name="Shading Nodes" colour="808080">
+		<subcategory name="Root">
+			<node name="Fractal Noise Shading Node" position="2" frequency="0" ID="456"></node>
+			<node name="Gradient Shading Node" position="2" frequency="0" ID="457"></node>
+			<node name="Grid Shading Node" position="2" frequency="0" ID="458"></node>
+			<node name="Noise Shading Node" position="3" frequency="0" ID="459"></node>
+			<node name="Null Shading Node" position="2" frequency="0" ID="460"></node>
+			<node name="Procedural Shading Node" position="5" frequency="0" ID="461"></node>
+			<node name="Texture Shading Node" position="2" frequency="0" ID="462"></node>
+		</subcategory>
+	</category>
+	<category name="Sound" colour="808080">
+		<subcategory name="Root">
+			<node name="Capture Sound" position="2" frequency="0" ID="463"></node>
+			<node name="Play Sound" position="2" frequency="0" ID="464"></node>
+		</subcategory>
+	</category>
+	<category name="Video Processing" colour="97cad5">
+		<subcategory name="Root">
+			<node name="Video Null" position="2" frequency="0" ID="465"></node>
+		</subcategory>
+		<subcategory name="Depth Processing">
+			<node name="Depth Camera / Kinect Colour Key" position="3" frequency="0" ID="466"></node>
+			<node name="Kinect Surface Mask" position="3" frequency="0" ID="467"></node>
+			<node name="Luminance From Depth" position="3" frequency="0" ID="468"></node>
+			<node name="Stereo Image Rectification" position="3" frequency="0" ID="469"></node>
+		</subcategory>
+		<subcategory name="Feature Tracking">
+			<node name="Blob Tracker" position="3" frequency="0" ID="470"></node>
+			<node name="Face Tracker" position="3" frequency="0" ID="471"></node>
+			<node name="Find Features" position="3" frequency="0" ID="472"></node>
+			<node name="Track Features" position="3" frequency="0" ID="473"></node>
+			<node name="Track Points" position="3" frequency="0" ID="474"></node>
+		</subcategory>
+		<subcategory name="Image Processing">
+			<node name="Composite Sources" position="3" frequency="0" ID="475"></node>
+			<node name="Downsample" position="3" frequency="0" ID="476"></node>
+			<node name="Frame Buffer" position="6" frequency="0" ID="477"></node>
+			<node name="Frame Delay Frame" position="6" frequency="0" ID="478"></node>
+			<node name="Raycast Lighting" position="3" frequency="0" ID="479"></node>
+			<node name="Resize" position="3" frequency="0" ID="480"></node>
+			<node name="Upsample" position="3" frequency="0" ID="481"></node>
+		</subcategory>
+		<subcategory name="Input Output">
+			<node name="Colour And Depth Source" position="3" frequency="0" ID="482"></node>
+			<node name="Depth Camera / Kinect Source" position="3" frequency="0" ID="483"></node>
+			<node name="GBuffer To Image" position="3" frequency="0" ID="484"></node>
+			<node name="Geometry Image Source" position="3" frequency="0" ID="485"></node>
+			<node name="Intel SDS Stream Source" position="3" frequency="0" ID="486"></node>
+			<node name="Kinect Stream Exporter" position="3" frequency="0" ID="487"></node>
+			<node name="Multiplex Sources" position="3" frequency="0" ID="488"></node>
+			<node name="Rendered Video Source" position="3" frequency="0" ID="489"></node>
+			<node name="Video In Source" position="3" frequency="0" ID="490"></node>
+			<node name="Video Loader" position="3" frequency="0" ID="491"></node>
+			<node name="Video NDI Source" position="3" frequency="0" ID="492"></node>
+			<node name="Video Output Renderer" position="3" frequency="0" ID="493"></node>
+		</subcategory>
+		<subcategory name="Motion Processing">
+			<node name="Optical Flow" position="3" frequency="0" ID="494"></node>
+			<node name="Temporal Filter" position="3" frequency="0" ID="495"></node>
+		</subcategory>
+		<subcategory name="Segmentation">
+			<node name="Background Subtract" position="3" frequency="0" ID="496"></node>
+		</subcategory>
+	</category>
+</root>
