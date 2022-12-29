@@ -4,6 +4,9 @@ Current version compatible with Notch v0.9.22.065
 
 This piece of software coded in AHK language allows you to spawn nodes on the nodegraph in the fastest possible way.
 
+Check out my Patreon post about this project:<br>
+https://www.patreon.com/posts/nodepop-beta-for-26473142
+
 # HOW TO USE
 To run this you will need to install AHK (AutoHotKey) scripting environment: https://www.autohotkey.com/
 
